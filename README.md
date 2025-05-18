@@ -2,7 +2,7 @@
   <img src="https://your-image-hosting-service.com/retro-pixel-art-gaming-room-banner.jpg" alt="Header Banner" width="100%" style="max-width: 1280px; border-radius: 8px;">
 </div>
 
-# 👋 Xin chào, tôi là Nguyễn Thanh Vũ (TinMagicDEV)
+# 👋 Xin chào, tôi là Nguyễn Trung Tín (TinMagicDEV)
 
 <p align="center">
   <em>Lập trình viên fullstack đam mê, tạo ra các ứng dụng web mạnh mẽ và có khả năng mở rộng.</em>
