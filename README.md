@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Nguyễn Thanh Vũ - Trang Cá Nhân</title>
+
 <script src="https://cdn.tailwindcss.com/3.4.16"></script>
 <script>tailwind.config={theme:{extend:{colors:{primary:'#6366f1',secondary:'#4f46e5'},borderRadius:{'none':'0px','sm':'4px',DEFAULT:'8px','md':'12px','lg':'16px','xl':'20px','2xl':'24px','3xl':'32px','full':'9999px','button':'8px'}}}}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -57,7 +57,6 @@ input[type="number"]::-webkit-outer-spin-button {
     <!-- Introduction -->
     <section class="text-center mb-12">
       <h1 class="text-3xl font-bold mb-4 flex items-center justify-center gap-2">
-        <span class="text-2xl">👋</span> Xin chào, tôi là Nguyễn Thanh Vũ
       </h1>
       <p class="text-lg text-indigo-300 mb-4">(TinMagicDEV)</p>
       
